@@ -1,5 +1,5 @@
 # TIC-TAC-TOE
-This is a Tic Tac Toe game in c++. Which has single and multiplayer option in it.
+This is a Tic Tac Toe game in C++. Which has single and multiplayer option in it.This game is build using basic concepts of C++.
 # Introduction
 This repository contains a Tic Tac Toe game implemented in C++. It provides both single-player and multiplayer options, allowing you to challenge yourself against an AI opponent or compete with a friend.
 # Features of Project
