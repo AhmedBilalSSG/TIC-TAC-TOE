@@ -13,5 +13,3 @@ Once you've launched the Tic Tac Toe game, you'll be presented with the main men
 * In single-player mode, you'll be playing against the AI. The AI will make its move after you've made yours.
 * In multiplayer mode, you can compete against a friend by taking turns making moves on the game board.
 The game will display the current state of the board after each move, and it will also announce the winner or declare a draw when appropriate.
-# License
-This Tic Tac Toe game is open source and distributed under the MIT License. Feel free to modify and use the code for your own projects.
